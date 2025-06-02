@@ -103,6 +103,9 @@ namespace StringManipulation
 
         static void Main(string[] args)
         {
+            Console.WriteLine("-------String Manipulation App!-------");
+            Console.WriteLine("-----Yasir Maken QTS Doha Intern!-----\n");            
+
             // Demonstrate the AnalyzeString method
             Console.WriteLine("--- Character Counter ---");
             AnalyzeString("Hello World 123!@#");
